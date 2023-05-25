@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Matt
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Matt!
+- 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me @: mjhammond94@gmail.com
 
 <!---
