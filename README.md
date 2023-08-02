@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt!
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me @: mjhammond94@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattHammond94&layout=compact"/>
